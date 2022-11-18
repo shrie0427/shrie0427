@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- Pursuing B.E. In Instrumentation and Control at Dr. DY Patil College of Engineering, Pune 👨‍💻
+- Pursuing B.E. In Instrumentation and Control at D Y Patil College of Engineering, Pune 👨‍💻
 - Full Stack Java Developer
 - 5⭐ programmer at HackerRank
 - HTML,CSS,JS. 🌐
