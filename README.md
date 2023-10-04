@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- Pursuing B.E. In Instrumentation and Control at D Y Patil College of Engineering, Pune 👨‍💻
+- Pursuing Masters in Data Science at University of Sheffield, United Kingdom 👨‍💻
 - Data science and Machine learning Enthusiastic.
 - Full Stack Java Developer
 - 5⭐ programmer at HackerRank
