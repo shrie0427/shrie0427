@@ -2,9 +2,7 @@
 
 - Pursuing Masters in Data Science at University of Sheffield, United Kingdom 👨‍💻
 - Data science and Machine learning Enthusiastic.
-- Full Stack Java Developer
 - 5⭐ programmer at HackerRank
-- HTML,CSS, Google Apps Script. 🌐
 - Open source Enthusiast 👨‍💻
 - Loves to Code and Design 👨‍💻👨‍🎨
 - **Hobbies**: ⛹️‍♂️ , 🎨 and 📕
