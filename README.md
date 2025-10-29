@@ -1,10 +1,9 @@
 ### Hi there 👋
 
-- Pursuing Masters in Data Science at University of Sheffield, United Kingdom 👨‍💻
+- Masters in Data Science at University of Sheffield, United Kingdom 👨‍💻
 - Data science and Machine learning Enthusiastic.
 - 5⭐ programmer at HackerRank
 - Open source Enthusiast 👨‍💻
-- Loves to Code and Design 👨‍💻👨‍🎨
 - **Hobbies**: ⛹️‍♂️ , 🎨 and 📕
 - Want to connect with me ? Just drop a **Hi** 👋
 
