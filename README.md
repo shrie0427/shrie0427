@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello there 👋
 
 - Masters in Data Science at University of Sheffield, United Kingdom 👨‍💻
 - Data science and Machine learning Enthusiastic.
