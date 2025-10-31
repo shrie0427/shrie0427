@@ -37,8 +37,16 @@
 <div align='center'>
  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shrie0427)](https://github.com/shrie0427)
-&nbsp;&nbsp;
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shrie0427&layout=compact)](https://github.com/shrie0427)
+
+<!-- Tech/Tools -->
+  
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=000)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=fff)
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=fff)
+
 
 </div>
 
