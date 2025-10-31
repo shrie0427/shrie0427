@@ -37,7 +37,7 @@
 <div align='center'>
  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shrie0427)](https://github.com/shrie0427)
-
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
 </div>
 
 
