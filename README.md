@@ -1,7 +1,7 @@
 ### Hello there 👋
 
+- Experienced in Data analysis, Visualization, and Machine Learning
 - Masters in Data Science at University of Sheffield, United Kingdom 👨‍💻
-- Data science and Machine learning Enthusiastic.
 - 5⭐ programmer at HackerRank
 - Open source Enthusiast 👨‍💻
 - **Hobbies**: ⛹️‍♂️ , 🎨 and 📕
