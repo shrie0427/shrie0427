@@ -1,6 +1,7 @@
 ### Hello there 👋
 
 - Experienced in Data analysis, Visualization, and Machine Learning
+- MIcrosoft Certified: Poewr BI Data Analyst Associate
 - Masters in Data Science at University of Sheffield, United Kingdom 👨‍💻
 - 5⭐ programmer at HackerRank
 - Open source Enthusiast 👨‍💻
